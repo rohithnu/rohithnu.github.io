@@ -1,10 +1,10 @@
 <html>
   <head>
   <h1>
-    # rohithnu.github.io
+    # Rohith Chevvakula Resume
   </h1>
     </head>
   <body>
-    <h2>Rohith Chevvakula</h2>
+    <h2> Resume will show up here soon.. </h2>
   </body>
   </html>
